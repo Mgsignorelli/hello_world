@@ -1,2 +1,4 @@
 # hello_world
-primero
+primer
+Chilean Italian visual artist. http://www.micaelasignorelli.com
+Scholar, interpreter, performer, expat, frustrated.
